@@ -8,7 +8,7 @@ namespace Lib_Area
 
         static void Main(string[] args)
         {
-            Console.WriteLine(Figure.getArea(2, 4));
+            Console.WriteLine(Figure.getArea(22, 11, 23));
         }
     }
 }

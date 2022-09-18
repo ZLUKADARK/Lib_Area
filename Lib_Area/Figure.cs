@@ -7,10 +7,7 @@ namespace Lib_Area
     static class Figure
     {
         static double area;
-        public static double getArea(float a)
-        {
-            return area;
-        }
+
         public static double getArea(float a, float b)
         {
             if (a == b) 
